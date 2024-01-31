@@ -46,14 +46,24 @@ nav {
 
 .home-container12 {
     width: 100%;
+    height: auto;
     height: 114px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: grey;
+    background-color:#E5E5E5;
     flex-direction: column;
   }
   .row{
     display: flex;
     justify-content: space-around;
+    text-align: center;
+  }
+
+  .parahead {
+    font-size: 35px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    text-transform: none;
+    color: #e8343f;
   }
